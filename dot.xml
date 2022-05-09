@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cont xmlns:name="https//:www.maestro.com">
+<contact-info>
+<contact1>
+<name>bigcompany</name>
+<phone-no>255744554546</phone-no>
+</contact1>
+<contact2>
+<name>enterprise</name>
+<phone-no>255744554046</phone-no>
+</contact2>
+</contact-info>
+</cont>
